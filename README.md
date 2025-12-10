@@ -6,7 +6,7 @@ Remote and hybrid workers are caught between two imperfect options: isolated hom
 
 ## The Solution
 
-**The Office** is a subscription-based co-working space that doubles as a rotating cat adoption center, creating a community united by productivity and a love of cats—not arbitrary corporate boundaries.
+**The Office** is a subscription-based co-working space that doubles as a rotating cat adoption center, creating a community united by productivity and a love of cats — not arbitrary corporate boundaries.
 
 ## How It Works
 
@@ -17,10 +17,12 @@ Remote and hybrid workers are caught between two imperfect options: isolated hom
 - The unique benefit: 10-15 adoptable cats as your coworkers
 
 **For Cats (and Cat Lovers):**
+- **Foster-Sponsorship Program**: Members can financially sponsor a cat(s) to provide veterinary care and supplies
 - **Foster-to-Adopter Program**: Members can foster cats for up to three months before deciding to adopt or return them
-- This "try before you commit" model removes adoption anxiety while dramatically expanding foster capacity
+- This "transition period" model removes adoption anxiety while dramatically expanding foster capacity
 - Even returns are wins—they free up space for the next cat while the returned cat has been socialized and made more adoptable
-- On-site socialization training helps members learn proper cat care, creating calmer, better-adjusted cats
+- On-site socialization training helps members learn proper cat care, creating calmer, better-adjusted guardians (and cats)
+- Promotes adoption of pairs of compatible cats that are known to be happy and supportive of each other
 
 ## Why This Works
 
@@ -30,9 +32,19 @@ Remote and hybrid workers are caught between two imperfect options: isolated hom
 3. **The community gets** a self-sustaining model where membership fees support both the space and cat welfare
 
 **The Math:**
-- If even 30% of members foster, a space with 50 members maintains 15 active fosters
-- These fosters rotate every 1-3 months, meaning 60-180 cats get fostered annually
-- Socialization during the day (from workers) + at night (at foster homes) = highly adoptable cats
+- **Monthly costs:** ~$8,000 (rent, utilities, part-time staff, cat supplies, vet fund)
+- **Break-even:** 40 members × $200 = $8,000/mo
+- **Day passes:** Additional revenue—20 visits/week × $15 = $1,200/mo buffer
+- **Cat capacity:** 10-15 cats rotating through 2-4 week cycles maximizes exposure without overcrowding
+
+## Location & Partnerships
+
+- **Target location:** Humboldt Park, Chicago—a neighborhood with strong community identity and growing remote worker population
+- **Political alignment:** Alderperson Jesse Fuentes (26th Ward) prioritizes youth outreach—a non-profit model with youth programming could align with ward priorities
+- **Target shelter partner:** [SAYv Animal Organization](https://www.sayvanimals.org/)—pending outreach
+- **Bonus synergy:** SAYv runs popup vaccination clinics; hosting these on-site brings foot traffic and community goodwill
+- **Model:** Partner rescue supplies cats and handles medical costs; we provide foster capacity and adoption exposure
+- **Regulations:** Food service physically separated from cat areas per health code; members sign liability waivers
 
 ## The Vibe
 
