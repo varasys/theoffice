@@ -1,3 +1,10 @@
+```
+  /\_/\  
+ ( ^.^ ) 
+  > ~ <
+ (  "  )
+```
+
 # The Office: Where Work Meets Whiskers
 
 ## The Problem
@@ -41,8 +48,8 @@ Remote and hybrid workers are caught between two imperfect options: isolated hom
 
 - **Target location:** Humboldt Park, Chicago—a neighborhood with strong community identity and growing remote worker population
 - **Political alignment:** Alderperson Jesse Fuentes (26th Ward) prioritizes youth outreach—a non-profit model with youth programming could align with ward priorities
-- **Target shelter partner:** [SAYv Animal Organization](https://www.sayvanimals.org/)—pending outreach
-- **Bonus synergy:** SAYv runs popup vaccination clinics; hosting these on-site brings foot traffic and community goodwill
+- **Target shelter partner:** pending outreach
+- **Bonus synergy:** a shelter partner that runs vaccination clinics; hosting these on-site brings foot traffic and community goodwill
 - **Model:** Partner rescue supplies cats and handles medical costs; we provide foster capacity and adoption exposure
 - **Regulations:** Food service physically separated from cat areas per health code; members sign liability waivers
 
