@@ -13,7 +13,7 @@ Remote and hybrid workers are caught between two imperfect options: isolated hom
 
 ## The Solution
 
-**The Office** is a subscription-based co-working space that doubles as a rotating cat adoption center, creating the kind of community that used to happen naturally at work — before screens came between us.
+**The Office** is a subscription-based co-working space that doubles as a rotating cat adoption center[^2], creating the kind of community that used to happen naturally at work — before screens came between us.
 
 ## How It Works
 
@@ -35,7 +35,7 @@ Remote and hybrid workers are caught between two imperfect options: isolated hom
 
 **The Win-Win-Win:**
 1. **Workers get** a productive, affordable workspace with built-in stress relief and genuine community
-2. **Cats get** more foster homes, better socialization, and higher adoption rates from people who've actually lived with them
+2. **Cats get** more foster homes, better socialization, and higher adoption rates from people who've actually lived with them[^3]
 3. **The community gets** a self-sustaining model where membership fees support both the space and cat welfare
 
 **Math for a Non-Profit (probably naive and inaccurate):**
@@ -47,7 +47,7 @@ Remote and hybrid workers are caught between two imperfect options: isolated hom
 ## Location & Partnerships
 
 - **Target location:** Humboldt Park, Chicago — a neighborhood with deep roots, vibrant culture, and a strong sense of community pride
-- **Political alignment:** Alderperson Jessie Fuentes (26th Ward) brings a background in education, youth advocacy, and community development[^1] — a non-profit model with youth job training could align with ward priorities[^2]
+- **Political alignment:** Alderperson Jessie Fuentes (26th Ward) brings a background in education, youth advocacy, and community development[^1] — a non-profit model with youth job training could align with ward priorities
 - **Target shelter partner:** pending outreach
 - **Bonus synergy:** a shelter partner that runs vaccination clinics; hosting these on-site brings foot traffic and community goodwill and people who already have a cat that may need a friend
 - **Model:** Partner rescue supplies cats and handles medical costs; we provide foster capacity and adoption exposure
@@ -63,14 +63,13 @@ Proving that the best coworker relationships still start in person — especiall
 
 ---
 
-<details>
-<summary><strong>Footnotes</strong></summary>
+## Footnotes
 
-[^1]: Fuentes served as Dean of Students at Roberto Clemente Community Academy and Dr. Pedro Albizu Campos High School, and was Director of Policy and Youth Advocacy at the Puerto Rican Cultural Center. Source: [26th Ward — Meet Jessie](https://www.the26thward.org/meet-jessie)
+[^1]: Alderperson Fuentes served as Dean of Students at Roberto Clemente and Dr. Pedro Albizu Campos High School, and was Director of Policy and Youth Advocacy at the Puerto Rican Cultural Center. Her stated priorities include education, criminal justice reform, affordable housing, community development, and sustainability. Source: [26th Ward — Meet Jessie](https://www.the26thward.org/meet-jessie)
 
-[^2]: Her stated priorities include education, criminal justice reform, affordable housing, community development, and sustainability. Source: [26th Ward — Meet Jessie](https://www.the26thward.org/meet-jessie)
+[^2]: Cat Town in Oakland opened in 2014 as the first cat café in the United States and has since adopted out thousands of cats, pioneering the cage-free adoption center model now used nationwide. Source: [Cat Town — Our Mission and History](https://www.cattownoakland.org/our-mission)
 
-</details>
+[^3]: Cage-free environments reduce stress and allow cats to show their true personalities, improving adoption outcomes—especially for shy, senior, or overlooked cats. Source: [Cat Town — Our Mission and History](https://www.cattownoakland.org/our-mission)
 
 <details>
 <summary><strong>Appendix: Potential Funding Sources</strong></summary>
