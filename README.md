@@ -13,7 +13,7 @@ Remote and hybrid workers are caught between two imperfect options: isolated hom
 
 ## The Solution
 
-**The Office** is a subscription-based co-working space that doubles as a rotating cat adoption center, creating a community united by productivity and a love of cats — not arbitrary corporate boundaries.
+**The Office** is a subscription-based co-working space that doubles as a rotating cat adoption center, creating the kind of community that used to happen naturally at work — before screens came between us.
 
 ## How It Works
 
@@ -56,6 +56,8 @@ Remote and hybrid workers are caught between two imperfect options: isolated hom
 ## The Vibe
 
 This isn't a shelter. It's not your corporate office. It's a third space where your coworker might be working on a project next to you, or might be a tabby named Gerald who's perfected the art of sitting on warm laptops. It's where "Can I pet your cat?" is the best networking icebreaker, and where leaving for the day to take your foster home feels less like ending work and more like extending the community you've built.
+
+Proving that the best coworker relationships still start in person — especially when one of them is a cat.
 
 **The Office: Come for the WiFi. Stay for the purrs. Leave with a coworker.**
 
